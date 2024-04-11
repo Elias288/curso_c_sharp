@@ -1,0 +1,15 @@
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\bin\Debug\net8.0\4-Operaciones.exe
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\bin\Debug\net8.0\4-Operaciones.deps.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\bin\Debug\net8.0\4-Operaciones.runtimeconfig.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\bin\Debug\net8.0\4-Operaciones.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\bin\Debug\net8.0\4-Operaciones.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.csproj.AssemblyReference.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.AssemblyInfoInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.AssemblyInfo.cs
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\refint\4-Operaciones.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\4-Operaciones.genruntimeconfig.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\4-Operaciones\obj\Debug\net8.0\ref\4-Operaciones.dll

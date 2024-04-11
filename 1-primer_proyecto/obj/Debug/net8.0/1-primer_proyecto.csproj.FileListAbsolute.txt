@@ -1,0 +1,15 @@
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\bin\Debug\net8.0\1-primer_proyecto.exe
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\bin\Debug\net8.0\1-primer_proyecto.deps.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\bin\Debug\net8.0\1-primer_proyecto.runtimeconfig.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\bin\Debug\net8.0\1-primer_proyecto.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\bin\Debug\net8.0\1-primer_proyecto.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.csproj.AssemblyReference.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.AssemblyInfoInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.AssemblyInfo.cs
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\refint\1-primer_proyecto.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\1-primer_proyecto.genruntimeconfig.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\1-primer_proyecto\obj\Debug\net8.0\ref\1-primer_proyecto.dll

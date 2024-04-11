@@ -1,0 +1,15 @@
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\bin\Debug\net8.0\2-Variables.exe
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\bin\Debug\net8.0\2-Variables.deps.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\bin\Debug\net8.0\2-Variables.runtimeconfig.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\bin\Debug\net8.0\2-Variables.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\bin\Debug\net8.0\2-Variables.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.csproj.AssemblyReference.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.AssemblyInfoInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.AssemblyInfo.cs
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.csproj.CoreCompileInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\refint\2-Variables.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\2-Variables.genruntimeconfig.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\2-Variables\obj\Debug\net8.0\ref\2-Variables.dll

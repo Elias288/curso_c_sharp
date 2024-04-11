@@ -1,0 +1,15 @@
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\bin\Debug\net8.0\3-Cadenas.exe
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\bin\Debug\net8.0\3-Cadenas.deps.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\bin\Debug\net8.0\3-Cadenas.runtimeconfig.json
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\bin\Debug\net8.0\3-Cadenas.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\bin\Debug\net8.0\3-Cadenas.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.csproj.AssemblyReference.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.AssemblyInfoInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.AssemblyInfo.cs
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\refint\3-Cadenas.dll
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.pdb
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\3-Cadenas.genruntimeconfig.cache
+C:\Users\Elias bianchi\Documents\proyectos_local\Curos_C_sharp\3-Cadenas\obj\Debug\net8.0\ref\3-Cadenas.dll
